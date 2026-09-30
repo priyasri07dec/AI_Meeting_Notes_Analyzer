@@ -1,0 +1,6 @@
+ipykernel
+langgraph
+google-genai
+python-dotenv
+streamlit
+pydantic
